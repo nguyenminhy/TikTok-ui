@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TikTok-ui/static/css/main.965004ec.css",
-    "main.js": "/TikTok-ui/static/js/main.d24816ab.js",
-    "static/js/787.4c9d15e8.chunk.js": "/TikTok-ui/static/js/787.4c9d15e8.chunk.js",
+    "main.css": "/TikTok-ui/static/css/main.ee4efdfd.css",
+    "main.js": "/TikTok-ui/static/js/main.39138023.js",
+    "static/js/27.2c41881a.chunk.js": "/TikTok-ui/static/js/27.2c41881a.chunk.js",
     "static/media/loginWithQRGuide.gif": "/TikTok-ui/static/media/loginWithQRGuide.ff9c987d0c494fb85fc5.gif",
     "static/media/sofiapro-semibold.otf": "/TikTok-ui/static/media/sofiapro-semibold.a9a8148f7d5d0db20db8.otf",
     "static/media/ProximaNova-Semibold.woff2": "/TikTok-ui/static/media/ProximaNova-Semibold.db7972dbe0b808f96bae.woff2",
@@ -10,13 +10,10 @@
     "static/media/Proxima-Nova-Regular.woff2": "/TikTok-ui/static/media/Proxima-Nova-Regular.6c83037ae28747e6d774.woff2",
     "static/media/Proxima-Nova-Semibold.woff2": "/TikTok-ui/static/media/Proxima-Nova-Semibold.c5632e80f6e35c93156f.woff2",
     "static/media/logo.svg": "/TikTok-ui/static/media/logo.1947595c94ccdb96a1c46a3dc84a00e1.svg",
-    "index.html": "/TikTok-ui/index.html",
-    "main.965004ec.css.map": "/TikTok-ui/static/css/main.965004ec.css.map",
-    "main.d24816ab.js.map": "/TikTok-ui/static/js/main.d24816ab.js.map",
-    "787.4c9d15e8.chunk.js.map": "/TikTok-ui/static/js/787.4c9d15e8.chunk.js.map"
+    "index.html": "/TikTok-ui/index.html"
   },
   "entrypoints": [
-    "static/css/main.965004ec.css",
-    "static/js/main.d24816ab.js"
+    "static/css/main.ee4efdfd.css",
+    "static/js/main.39138023.js"
   ]
 }
