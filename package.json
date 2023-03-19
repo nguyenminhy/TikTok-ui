@@ -1,5 +1,5 @@
 {
-    "homepage": "http://nguyenminhy.github.io/TikTok-ui",
+    "homepage": "http://nguyenminhy.github.io/tiktok",
     "name": "tiktok-ui",
     "version": "0.1.0",
     "private": true,
@@ -28,15 +28,15 @@
         "babel-plugin-module-resolver": "^4.1.0",
         "customize-cra": "^1.0.0",
         "gh-pages": "^5.0.0",
-        "react-app-rewired": "^2.2.1",
-        "predeploy": "react-app-rewired build",
-        "deploy": "gh-pages -d build"
+        "react-app-rewired": "^2.2.1"
     },
     "scripts": {
         "start": "react-app-rewired start",
         "build": "react-app-rewired build",
         "test": "react-app-rewired test",
-        "eject": "react-app-rewired eject"
+        "eject": "react-app-rewired eject",
+        "predeploy": "react-app-rewired build",
+        "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
         "extends": [
